@@ -1,0 +1,1 @@
+https://bd-indexe-inverse.kb.us-central1.gcp.cloud.es.io:9243/app/dev_tools#/console
